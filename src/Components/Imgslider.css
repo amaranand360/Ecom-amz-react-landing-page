@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-control-next-icon{
+    background-color: black; 
+    height: 50px;
+}
+.carousel-control-prev-icon{
+    background-color: black; 
+    height: 50px;
+}
+
+
+.carousel-control-next, .carousel-control-prev {
+    position: absolute;
+    margin-top:-250px ;
+}
+img{
+    width: 100%;
+    /* height: 100vh; */
+}
