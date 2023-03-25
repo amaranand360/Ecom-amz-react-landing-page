@@ -2,8 +2,8 @@ import React from 'react'
 // import  Carousel from 'react-bootstrap';
 import './Imgslider.css';
 import image1 from '../images/home1.jpg';
-import image2 from '../images/home2.jpg';
-import image3 from '../images/home3.jpg';
+// import image2 from '../images/home2.jpg';
+// import image3 from '../images/home3.jpg';
 // import image4 from '../images/home4.jpg';
 // import image5 from '../images/home5.jpg';
 // import image6 from '../images/home6.jpg';
@@ -21,7 +21,7 @@ function UncontrolledExample() {
         />
      
       </Carousel.Item>
-      <Carousel.Item>
+      {/* <Carousel.Item>
         <img
           className="d-block w-100"
           src= {image2}
@@ -38,8 +38,9 @@ function UncontrolledExample() {
         />
 
         
-      </Carousel.Item>
+      </Carousel.Item>  */}
     </Carousel>
+    
   );
 }
 
