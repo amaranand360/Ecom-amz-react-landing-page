@@ -6,7 +6,7 @@ This is a project for creating an Amazon clone using React. The goal of this pro
 
 # 🚀Live Demo:
 
--  simply click this link : https://duplicate-char-remover-8b327.web.app 👈 to see my React project.
+-  simply click this link :  👈 to see my React project.
 
 
 # 👉 Instructions to run this project locally
