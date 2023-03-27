@@ -23,9 +23,9 @@
 
 .Searchicon
 {
-    height: 5.9vh;
-    width: 5.9vh;
-    padding: .215rem;
+    height: 7vh;
+    width: 6vh;
+    padding: .5rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,8 +40,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 5.90vh;
-    width: 5.90vh;
+    height: 7vh;
+    width: 6.5vh;
     margin-left: 20px;
     font-weight: 600;
     background-color:lightgray;
