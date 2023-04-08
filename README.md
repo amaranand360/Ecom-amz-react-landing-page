@@ -14,8 +14,7 @@ This is a project for creating an Amazon single page clone using React. The goal
 <h3> Step:1.Clone the repository by running the following command  </h3>
 
 ``` 
-git clone https://github.com/amaranand360/frontend-engineering-octernship.git
-
+https://github.com/amaranand360/amazon-clone.git
 ```
 
 <h3>Step:2.Navigate to the project directory by running the following command  </h3>
