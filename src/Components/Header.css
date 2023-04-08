@@ -23,13 +23,13 @@
 
 .Searchicon
 {
-    height: 5.9vh;
+    height: 6.9vh;
     width: 5.9vh;
-    padding: .215rem;
+    padding: .355rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1.15rem;
+    font-size: 1.25rem;
     background-color: #cd9042;
     border-top-right-radius: 6px;
     border-bottom-right-radius: 6px;

@@ -43,4 +43,4 @@ function Product({ id, title, price, rating, image }) {
   );
 }
 
-export default Product
+export default Product;

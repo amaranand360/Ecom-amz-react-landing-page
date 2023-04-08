@@ -62,14 +62,9 @@ function Header() {
                         <span className='header_op_l2'>Prime</span>
                     </div>
 
-                    {/* <Link to='/checkout'>
-                        <div className='header-option'>
-                            <span><FaShoppingCart /> {0}</span>
-                            <span className='header_op_l2'>Cart</span>
-                        </div>
-                    </Link> */}
+                  
 
-                    <a style={{textDecoration:'none'}} href='/checkout' >
+                    <a style={{textDecoration:'none'}} href='/' >
                     <div className='header-option'>
                         <span> <FaShoppingCart /> {0} </span>
                         <span className='header_op_l2'>Cart</span>
