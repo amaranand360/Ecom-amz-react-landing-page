@@ -2,11 +2,11 @@
 
 # 📝 Description
 
-This is a project for creating an Amazon clone using React. The goal of this project is to provide an e-commerce website that looks and feels like Amazon. This project is for learning purposes only and is not intended to be used in production.
+This is a project for creating an Amazon single page clone using React. The goal of this project is to provide an e-commerce website that looks and feels like Amazon. This project is for learning purposes only and is not intended to be used in production.
 
 # 🚀Live Demo:
 
--  simply click this link :  👈 to see my React project.
+-  simply click this link :  https://amz-ecom-site.web.app 👈 to see my React project.
 
 
 # 👉 Instructions to run this project locally
@@ -14,8 +14,7 @@ This is a project for creating an Amazon clone using React. The goal of this pro
 <h3> Step:1.Clone the repository by running the following command  </h3>
 
 ``` 
-git clone https://github.com/amaranand360/frontend-engineering-octernship.git
-
+https://github.com/amaranand360/amazon-clone.git
 ```
 
 <h3>Step:2.Navigate to the project directory by running the following command  </h3>
